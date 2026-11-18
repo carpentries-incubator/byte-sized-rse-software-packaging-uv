@@ -30,7 +30,7 @@ At the end of this lesson, learners should be able to:
 
 ### Recordings
 
-N/A
+- [Recording from RSC8, October 2026](https://youtu.be/74bTNVD4wTM?si=Bm06wPWlsWQ2K3tx)
 
 
 ## Acknowledgements
